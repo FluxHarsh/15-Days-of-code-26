@@ -26,4 +26,5 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 # DAY2-12th May
 
 1) Didn't code much as i went outside due to some important work will cover this on day 16th, did revision of some webd topics.
-2) Worked on college predictor project.
+2) Solved c++ pattern questions.
+3) Worked on college predictor project.
