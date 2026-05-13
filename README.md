@@ -22,3 +22,7 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 1) Completed C++ tutorial [Link](https://youtu.be/e7sAf4SbS_g?si=F8eg4PXF0jiwRrM5)
 2) Solved LeetCode Problem 1 [Question](https://leetcode.com/problems/two-sum/description/) [Solution](https://leetcode.com/submissions/detail/2000745553/)
 3) Working on a JEE college predictor - Extracted data and Prediction Algorithm
+
+# DAY2-12th May
+
+1) Didn't code much as i went outside due to some important work will cover this on day 16th, did revision of some webd topics.
