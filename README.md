@@ -26,5 +26,9 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 # DAY2-12th May
 
 1) Didn't code much as i went outside due to some important work will cover this on day 16th, did revision of some webd topics.
-2) Solved c++ pattern questions.
-3) Worked on college predictor project.
+2) Worked on college predictor project.
+
+# DAY3-13th May
+
+1) Compeleted C++ STL pairs, vectors, end and reverse, list, dq, queue, priority, set, multiset, unordered set, map, multimap [Link](https://youtu.be/RRVYpIET_RU?si=Ipxx43E__rg-h8RB)
+2) figuring out how can we cover such a big data of jossa like storing it in database as csv or converting it into json for comparitively fast fetching.
