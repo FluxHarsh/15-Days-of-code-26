@@ -67,3 +67,18 @@ Reverse Integer
 [Problem](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1)
 
 8) Working on a new project 
+
+# DAY5-15th May
+
+1) Did recursion 5 lectures from striver's playlist 
+
+2) Power of two
+
+[Problem](https://leetcode.com/problems/power-of-two/)
+[Solution](https://leetcode.com/submissions/detail/2004036188/)
+
+3) Fibonacci Number
+f(n) = f(n-1) + f(n-2)
+[Problem](https://leetcode.com/problems/fibonacci-number/description/)
+[Solution](https://leetcode.com/submissions/detail/2004092283/)
+ 
