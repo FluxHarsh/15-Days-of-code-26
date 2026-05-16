@@ -70,10 +70,9 @@ Reverse Integer
 
 # DAY5-15th May
 
-1) Did recursion 5 lectures from striver's playlist 
+1) Did recursion 5 lectures from striver's playlist covering some basic recursion problems, parameterised and functional recursion, multiple recursion calls.
 
-2) Power of two
-
+2) Power of Two
 [Problem](https://leetcode.com/problems/power-of-two/)
 [Solution](https://leetcode.com/submissions/detail/2004036188/)
 
