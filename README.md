@@ -82,3 +82,8 @@ f(n) = f(n-1) + f(n-2)
 [Problem](https://leetcode.com/problems/fibonacci-number/description/)
 [Solution](https://leetcode.com/submissions/detail/2004092283/)
  
+# DAY6-16th May
+
+1) Learned about Recursion on Subsequences
+2) solved an lc problem [Solution](https://leetcode.com/submissions/detail/2004809525/)
+3) learned about zod validation in next.js
