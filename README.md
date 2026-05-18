@@ -95,3 +95,5 @@ f(n) = f(n-1) + f(n-2)
 [Solution](https://leetcode.com/submissions/detail/2005800023/)
 
 3) Done with Basic Hashing and important Sorting Techniques such Selection Sort, Bubble Sort, Insertion Sort.
+
+4) worked on college predictor project
