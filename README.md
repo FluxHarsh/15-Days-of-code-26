@@ -97,3 +97,14 @@ f(n) = f(n-1) + f(n-2)
 3) Done with Basic Hashing and important Sorting Techniques such Selection Sort, Bubble Sort, Insertion Sort.
 
 4) worked on college predictor project
+
+# DAY8-18th May
+
+1) Done with merge sort
+
+2) Solved - Find Words That Can Be Formed by Characters <br/> 
+[Solution](https://leetcode.com/submissions/detail/2006653840/)
+
+3) Started with Arrays - largest,second largest elements
+
+4) worked on college predictor project
