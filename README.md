@@ -108,3 +108,24 @@ f(n) = f(n-1) + f(n-2)
 3) Started with Arrays - largest,second largest elements
 
 4) worked on college predictor project
+
+# DAY9-20th May
+
+on 19th may i went outside because of some important work didn't code much on that day so compiled it with 20th may <br> 
+1) Did arrays striver's lecture and solved those problems of <br>
+Check if the Array is Sorted
+, Remove Duplicates from Sorted Array
+, Left Rotate Array by One
+, Left Rotate Array by K Places
+, Move Zeros to End
+, Linear Search
+, Union of Two Sorted Arrays
+
+2) Problem - Remove Duplicates from Sorted Array <br> [Solution] (https://leetcode.com/submissions/detail/2007241979/)
+
+3) Problem - Move Zeroes <br> [Solution] (https://leetcode.com/submissions/detail/2008350107/)
+ 
+4) some questions on gfg - https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1 <br>
+https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1 <br>
+https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 <br>
+https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1 <br>
