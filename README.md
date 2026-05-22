@@ -130,7 +130,7 @@ https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1 <br>
 https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 <br>
 https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1 <br>
 
-# DAY9-20th May
+# DAY10-21st May
 
 1) learned about how to understand a codebase from the first principles.
 
