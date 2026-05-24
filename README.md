@@ -150,7 +150,6 @@ https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1 <
 1) Building jee college predictor, solving errors such as filtering based on category rank if applicable, filters errors ... etc
 
 2) DSA - <br>
-Problem - <br>
-Single Number [Solution](https://leetcode.com/submissions/detail/2010662897/)
+Problem - Single Number [Solution](https://leetcode.com/submissions/detail/2010662897/)
 <br>
 solved longest subarray with sum K
