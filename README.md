@@ -121,9 +121,9 @@ Check if the Array is Sorted
 , Linear Search
 , Union of Two Sorted Arrays
 
-2) Problem - Remove Duplicates from Sorted Array <br> [Solution] (https://leetcode.com/submissions/detail/2007241979/)
+2) Problem - Remove Duplicates from Sorted Array <br> [Solution](https://leetcode.com/submissions/detail/2007241979/)
 
-3) Problem - Move Zeroes <br> [Solution] (https://leetcode.com/submissions/detail/2008350107/)
+3) Problem - Move Zeroes <br> [Solution](https://leetcode.com/submissions/detail/2008350107/)
  
 4) some questions on gfg - https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1 <br>
 https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1 <br>
@@ -134,7 +134,7 @@ https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1 <
 
 1) learned about how to understand a codebase from the first principles.
 
-2) Problem - Intersection of Two Arrays <br> [Solution] (https://leetcode.com/submissions/detail/2009306453/)
+2) Problem - Intersection of Two Arrays <br> [Solution](https://leetcode.com/submissions/detail/2009306453/)
 
 # DAY11-22nd May
 
@@ -142,4 +142,14 @@ https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1 <
 <br>
 ![UI screenshot ](./Day11-22ndMay/clgPredictorUI.png) 
 
-2) Problem - Max Consecutive Ones <br> [Solution] (https://leetcode.com/submissions/detail/2010154262/) 
+2) Problem - Max Consecutive Ones <br> [Solution](https://leetcode.com/submissions/detail/2010154262/) 
+
+# DAY12-23rd May
+
+1) Building jee college predictor, solving errors such as filtering based on category rank if applicable, filters errors ... etc
+
+2) DSA - <br>
+Problem - <br>
+Single Number [Solution](https://leetcode.com/submissions/detail/2010662897/)
+<br>
+solved longest subarray with sum K
