@@ -140,7 +140,8 @@ https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1 <
 
 1) building college predictor which will help students to get idea about what clg they can get according to past year jossa data
 <br>
-![UI screenshot ](./Day11-22ndMay/clgPredictorUI.png) 
+
+![UI Screenshot](./Day11-22ndMay/clgPredictorUI.png)
 
 2) Problem - Max Consecutive Ones <br> [Solution](https://leetcode.com/submissions/detail/2010154262/) 
 
