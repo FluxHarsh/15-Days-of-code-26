@@ -153,3 +153,16 @@ https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1 <
 Problem - Single Number [Solution](https://leetcode.com/submissions/detail/2010662897/)
 <br>
 solved longest subarray with sum K
+
+# DAY13-24th May
+
+1) Problem - Sort Colors [Solution](https://leetcode.com/submissions/detail/2011975409/) using dutch national flag algorithm <br>         
+         0 to low-1 => 0 <br>
+         low to mid-1 => 1 <br>
+         high + 1 to n-1 => 2 <br>
+         so the section between mid to high is of unsorted 0s, 1s, and 2s we are sorting it by taking cases of mid to be 0 1 2 then swaping that mid with at low, there only, & high respectively with low++ mid++, mid++, & high-- respectively. <br>
+
+
+2) Problem - Two Sum [Solution](https://www.geeksforgeeks.org/problems/key-pair5616/1)
+
+3) Solving bugs of clg predictor
