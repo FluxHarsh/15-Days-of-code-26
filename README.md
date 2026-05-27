@@ -166,3 +166,10 @@ solved longest subarray with sum K
 2) Problem - Two Sum [Solution](https://www.geeksforgeeks.org/problems/key-pair5616/1)
 
 3) Solving bugs of clg predictor
+
+# DAY14-25th May
+
+1) Changing theme of college predictor and almost done.
+
+2) Problem - Majority Element [Solution](https://leetcode.com/submissions/detail/2012578401/).
+
