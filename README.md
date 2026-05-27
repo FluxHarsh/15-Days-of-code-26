@@ -173,3 +173,10 @@ solved longest subarray with sum K
 
 2) Problem - Majority Element [Solution](https://leetcode.com/submissions/detail/2012578401/).
 
+# DAY15-26th May
+
+1) Learning basics of NextJs, integrating college predictor in company's codebase which is in next js.
+
+2) Problem - Maximum Subarray - Kadane's Algo [Solution](https://leetcode.com/submissions/detail/2013879467/)
+
+3) Problem - Best Time to buy and sell stock [Solution](https://leetcode.com/submissions/detail/2013931338/)
