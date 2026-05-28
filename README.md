@@ -187,7 +187,7 @@ solved longest subarray with sum K
 1) Problem - Maximum Distance in Arrays [Solution](https://leetcode.com/submissions/detail/2014859040/) <br>
    Problem - Rearrange Array Elements by Sign [Solution](https://leetcode.com/submissions/detail/2014891962/)
 
-2) Compeleted JEE College Prediction tool and merged into production codebase currently live at guidekul.com/predictor <br>
+2) Compeleted JEE College Prediction tool and merged into production codebase currently live at [Guidekul College Predictor](https://www.guidekul.com/predictor) <br>
 
 ![Guidekul College Predictor](./Day16-27thMay/landingPage.png)
 ![result](./Day16-27thMay/resultPage.png)
