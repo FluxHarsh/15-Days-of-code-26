@@ -17,11 +17,15 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 4. Keep pushing your changes every day!  
 
+----
+
 # DAY1-11th May
 
 1) Completed C++ tutorial [Link](https://youtu.be/e7sAf4SbS_g?si=F8eg4PXF0jiwRrM5)
 2) Solved LeetCode Problem 1 [Question](https://leetcode.com/problems/two-sum/description/) [Solution](https://leetcode.com/submissions/detail/2000745553/)
 3) Working on a JEE college predictor - Extracted data and Prediction Algorithm
+
+----
 
 # DAY2-12th May
 
@@ -29,11 +33,15 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 2) Worked on college predictor project.
 3) completed c++ patterns
 
+----
+
 # DAY3-13th May
 
 1) Compeleted C++ STL pairs, vectors, end and reverse, list, dq, queue, priority, set, multiset, unordered set, map, multimap [Link](https://youtu.be/RRVYpIET_RU?si=Ipxx43E__rg-h8RB)
 2) figuring out how can we cover such a big data of jossa like storing it in database as csv or converting it into json for comparitively fast fetching.
 3) Started with basics of system desgin. 
+
+----
 
 # DAY4-14th May
 
@@ -68,6 +76,8 @@ Reverse Integer
 
 8) Working on a new project 
 
+----
+
 # DAY5-15th May
 
 1) Did recursion 5 lectures from striver's playlist covering some basic recursion problems, parameterised and functional recursion, multiple recursion calls.
@@ -80,12 +90,16 @@ Reverse Integer
 f(n) = f(n-1) + f(n-2)
 [Problem](https://leetcode.com/problems/fibonacci-number/description/)
 [Solution](https://leetcode.com/submissions/detail/2004092283/)
+
+----
  
 # DAY6-16th May
 
 1) Learned about Recursion on Subsequences
 2) solved an lc problem [Solution](https://leetcode.com/submissions/detail/2004809525/)
 3) learned about zod validation in next.js
+
+----
 
 # DAY7-17th May
 
@@ -98,6 +112,8 @@ f(n) = f(n-1) + f(n-2)
 
 4) worked on college predictor project
 
+----
+
 # DAY8-18th May
 
 1) Done with merge sort
@@ -108,6 +124,8 @@ f(n) = f(n-1) + f(n-2)
 3) Started with Arrays - largest,second largest elements
 
 4) worked on college predictor project
+
+----
 
 # DAY9-20th May
 
@@ -130,11 +148,15 @@ https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1 <br>
 https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1 <br>
 https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1 <br>
 
+----
+
 # DAY10-21st May
 
 1) learned about how to understand a codebase from the first principles.
 
 2) Problem - Intersection of Two Arrays <br> [Solution](https://leetcode.com/submissions/detail/2009306453/)
+
+----
 
 # DAY11-22nd May
 
@@ -145,6 +167,8 @@ https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1 <
 
 2) Problem - Max Consecutive Ones <br> [Solution](https://leetcode.com/submissions/detail/2010154262/) 
 
+----
+
 # DAY12-23rd May
 
 1) Building jee college predictor, solving errors such as filtering based on category rank if applicable, filters errors ... etc
@@ -153,6 +177,8 @@ https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1 <
 Problem - Single Number [Solution](https://leetcode.com/submissions/detail/2010662897/)
 <br>
 solved longest subarray with sum K
+
+----
 
 # DAY13-24th May
 
@@ -167,11 +193,15 @@ solved longest subarray with sum K
 
 3) Solving bugs of clg predictor
 
+----
+
 # DAY14-25th May
 
 1) Changing theme of college predictor and almost done.
 
 2) Problem - Majority Element [Solution](https://leetcode.com/submissions/detail/2012578401/).
+
+----
 
 # DAY15-26th May
 
@@ -180,6 +210,8 @@ solved longest subarray with sum K
 2) Problem - Maximum Subarray - Kadane's Algo [Solution](https://leetcode.com/submissions/detail/2013879467/)
 
 3) Problem - Best Time to buy and sell stock [Solution](https://leetcode.com/submissions/detail/2013931338/)
+
+----
 
 # DAY16-27th May
 (on day12th i went outside so for that, completed on day16th)
@@ -191,3 +223,22 @@ solved longest subarray with sum K
 
 ![Guidekul College Predictor](./Day16-27thMay/landingPage.png)
 ![result](./Day16-27thMay/resultPage.png)
+
+----
+----
+
+# 15 Days of Code Part2
+
+----
+
+# DAY1-16th June
+
+1) Learned about PostgreSQ's Relationships, Joins, Transactions and started with Prisma ORMs.
+
+2) Started with Linked List from Striver.
+
+3) Delete Node in a Linked List <br> [Problem Solution](https://leetcode.com/submissions/detail/2033117696/)
+
+4) Reverse String <br> [Problem Solution](https://leetcode.com/submissions/detail/2034307476/)
+
+----
