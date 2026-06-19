@@ -242,3 +242,12 @@ solved longest subarray with sum K
 4) Reverse String <br> [Problem Solution](https://leetcode.com/submissions/detail/2034307476/)
 
 ----
+
+# DAY2-18th June
+For 2days didn't code much as i went out
+
+1) Completed PRISM ORM and Merged some PRs fixing a bug and chaning the navbar at mobile view for a startup.
+
+2) Solved two LC questions <br> [Problem Solution](https://leetcode.com/submissions/detail/2035522335/)
+<br> [Problem Solution](https://leetcode.com/submissions/detail/2036729989/)
+<br> [Problem Solution](https://leetcode.com/submissions/detail/2037935159/)
