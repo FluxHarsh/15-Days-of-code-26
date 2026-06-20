@@ -246,8 +246,16 @@ solved longest subarray with sum K
 # DAY2-18th June
 For 2days didn't code much as i went out
 
-1) Completed PRISM ORM and Merged some PRs fixing a bug and chaning the navbar into much prettier one at mobile view for a startup.
+1) Completed PRISMA ORM and Merged some PRs fixing a bug and chaning the navbar into much prettier one at mobile view for a startup.
 
 2) Solved two LC questions <br> [Problem Solution](https://leetcode.com/submissions/detail/2035522335/)
 <br> [Problem Solution](https://leetcode.com/submissions/detail/2036729989/)
 <br> [Problem Solution](https://leetcode.com/submissions/detail/2037935159/)
+
+----
+
+# DAY3-19th June
+
+1) [Problem Solution](https://leetcode.com/submissions/detail/2039042918/).
+
+2) Making a project.
