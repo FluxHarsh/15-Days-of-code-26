@@ -258,4 +258,16 @@ For 2days didn't code much as i went out
 
 1) [Problem Solution](https://leetcode.com/submissions/detail/2039042918/).
 
-2) Making a project.
+2) Continuing an old project. <br> Designed complete workflow, defined roles etc.
+
+---
+
+# DAY4-20th June
+
+1) Started NextJs in depth learned about how nextjs is better than react as it majorily solves waterfalling problem and seo optimisation and has file based routing also does server side rendering.
+<br> Understanding routing.
+
+2) DSA [Problem Solution](https://leetcode.com/submissions/detail/2040175692/)
+
+3) Continuing that Manit_WMS project - database schema design and RBAC planning.
+
