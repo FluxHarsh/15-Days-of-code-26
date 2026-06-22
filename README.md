@@ -271,3 +271,12 @@ For 2days didn't code much as i went out
 
 3) Continuing that Manit_WMS project - database schema design and RBAC planning.
 
+---
+
+# DAY5-21st June
+
+1) DSA [Problem Solution](https://leetcode.com/submissions/detail/2041286391/)
+
+2) Started with Docker learned about Images v/s Containers, Ubuntu Image, Port Mappings
+
+3) project MANIT_WMS - API architecture and backend structure design, backend implementation
