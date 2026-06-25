@@ -293,3 +293,13 @@ For 2days didn't code much as i went out
     3. Publishing to Hub<br> Docker Compose
 
 3) Project MANIT_WMS - Structured backend using Controller-Service-Repository pattern, Implemented backend architecture
+
+---
+
+# DAY7-23rd June
+
+1) Remove Nth Node From End of List [Problem Solution](https://leetcode.com/submissions/detail/2043513123/)
+
+2) Project MANIT_WMS ->  Configured PostgreSQL integration and environment setup, Implemented request management modules, Added request status tracking and timestamp logging etc
+
+---
