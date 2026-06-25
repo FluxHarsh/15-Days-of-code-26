@@ -303,3 +303,20 @@ For 2days didn't code much as i went out
 2) Project MANIT_WMS ->  Configured PostgreSQL integration and environment setup, Implemented request management modules, Added request status tracking and timestamp logging etc
 
 ---
+
+# DAY8-24th June
+
+1) Delete the Middle Node of a Linked List [Problem Solution](https://leetcode.com/submissions/detail/2044961615/)
+
+2) Project MANIT_WMS -> Reviewed complete backend codebase, Validated API design against frontend screens, Improved security using bcrypt, JWT, helmet, and rate limiting, almost done with this project
+
+3) ![Homepage](./Day8-24thJune/homepage.png)
+---
+![RolePage](./Day8-24thJune/rolePage.png)
+---
+![Admin Dash](./Day8-24thJune/adminDashboard.png)
+---
+![Supervisor Dash](./Day8-24thJune/supervisorDash.png)
+---
+![Driver Dash](./Day8-24thJune/driverDash.png)
+---
