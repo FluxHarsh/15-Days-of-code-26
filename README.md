@@ -280,3 +280,16 @@ For 2days didn't code much as i went out
 2) Started with Docker learned about Images v/s Containers, Ubuntu Image, Port Mappings
 
 3) project MANIT_WMS - API architecture and backend structure design, backend implementation
+
+----
+
+# DAY6-22nd June
+
+1) Palindrome Linked List [Problem Solution](https://leetcode.com/submissions/detail/2042512381/)
+
+2) In Docker learned about -> Dockerization of Node.js Application <br>
+    1. Dockerfile
+    2. Caching Layers
+    3. Publishing to Hub<br> Docker Compose
+
+3) Project MANIT_WMS - Structured backend using Controller-Service-Repository pattern, Implemented backend architecture
