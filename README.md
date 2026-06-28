@@ -328,3 +328,13 @@ For 2days didn't code much as i went out
 1) Intersection of Two Linked Lists [Solution](https://leetcode.com/submissions/detail/2045338925/)
 
 2) Add Two Numbers [Solution](https://leetcode.com/submissions/detail/2045984145/)
+
+---
+
+# DAY10-26th June
+
+1) Rotate List [Solution](https://leetcode.com/submissions/detail/2046783093/)
+
+2) Delete all occurrences of a key in DLL
+
+3) Halloumi Boxes [Solution](https://codeforces.com/problemset/problem/1903/A)
