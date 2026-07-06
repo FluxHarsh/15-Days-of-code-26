@@ -338,3 +338,59 @@ For 2days didn't code much as i went out
 2) Delete all occurrences of a key in DLL
 
 3) Halloumi Boxes [Solution](https://codeforces.com/problemset/problem/1903/A)
+
+---
+
+# DAY11-28th June
+
+1) Generate Parentheses [Solution](https://leetcode.com/submissions/detail/2047853970/)
+
+2) Making portfolio website looked for inspiration
+
+3) Fixing bugs of MANIT-WMS project
+
+4) gave contest
+
+---
+
+# DAY12-29th June
+ 
+1) Combination Sum [Solution](https://leetcode.com/submissions/detail/2049208947/)
+ 
+2) Combination Sum II [Solution](https://leetcode.com/submissions/detail/2050406025/)
+
+3) revised next js old topics
+
+---
+
+# DAY13-30th June
+
+1) Subsets II [Solution](https://leetcode.com/submissions/detail/2051563942/)
+
+2) Continued with backend in next js 
+
+3) Fixed some ui changes in MANIT_WMS project
+
+---
+
+# DAY14-1st July
+
+1) Letter Combinations of a Phone Number [Solution](https://leetcode.com/submissions/detail/2052674857/)
+
+2) Started With GEN AI learned about LLMs.
+
+3) Revised few web d old topics(got to know about libuv and new small small details).
+
+
+---
+
+# DAY15-2nd July
+
+1) Word Search [Solution](https://leetcode.com/submissions/detail/2054205107/)
+
+2) In Gen AI - types of prompting, system prompt LLM settings etc.
+
+3) Discovered loop engineering.
+
+---
+Done with part2
